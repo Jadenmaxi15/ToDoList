@@ -1,5 +1,3 @@
-# ToDoList
-
 # Python Tkinter To-Do List App
 
 This is a simple to-do list application developed using Python Tkinter. The app allows users to organize their short notes, messages, or tasks in a convenient way.
