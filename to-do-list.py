@@ -36,7 +36,7 @@ window = Tk()
 window.title("To-Do App")
 
 # Load and display the background image
-background_image = ImageTk.PhotoImage(Image.open("background.jpg"))
+background_image = ImageTk.PhotoImage(Image.open("ToDoList.jpg"))
 background_label = Label(window, image=background_image)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
